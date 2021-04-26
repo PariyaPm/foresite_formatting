@@ -26,7 +26,7 @@ Directory_of_some_data
 ```
 
 
-###Naming order
+### Naming order
 The name of each file, including any of the following details should be as 
 follows:
 1. Description- the name describing the content of the file
