@@ -8,5 +8,5 @@ guidelines are grouped in 5 classes of:
 * [R Coding Style](./R_coding_style.md)
 * [git](./git.md)
 
-The provided guidelines are used in the project on California FORESITE: 
+The provided guidelines are used in the project of California FORESITE: 
 Forest Ecosystems Assessment and Planning Tool.
