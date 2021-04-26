@@ -5,7 +5,7 @@ projects.
 Files should be named consistently, they must be unique and no folder name
 should be included in the file name  
 
-##Characters
+## Characters
 ____
 1. Delimiters- use underscore (_) as delimiter to separate terms, do not use 
    spaces 
