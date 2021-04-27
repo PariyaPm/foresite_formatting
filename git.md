@@ -9,6 +9,11 @@ or
 git branch <branch-name>
 git checkout <branch-name>
 ```
+if you have already created a branch you need to switch to your branch befor commiting:
+
+```buildoutcfg
+git checkout <branch-name>
+```
 
 * Edit, add and commit your files. You need to make sure that your commit 
   includes a message of <72 characters such as:
