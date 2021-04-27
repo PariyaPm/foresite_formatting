@@ -1,4 +1,4 @@
-# Format repo
+# foresite_formatting
 In this repository the guidelines on file and coding formats are provided. The 
 guidelines are grouped in 5 classes of:
 
