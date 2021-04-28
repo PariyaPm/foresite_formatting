@@ -11,7 +11,7 @@ ____
    spaces 
 2. No special characters such as: '*' ':' '' '/' '<' '>' '|' '"' '!' '?' 
    '[' ']' ';' '=' '+' '&' '£' '$' '€' '%' or ','. may be used
-3. Periods are only allowed for file format naming (i.e .jpg)
+3. Periods are only allowed for file format naming (i.e .jpg) and version assignments
 4. All the name characters in non directory files should be in lowercase and no
    uppercase shall be used
 5. Exceptions apply for functional requirements, for example in names such as R
