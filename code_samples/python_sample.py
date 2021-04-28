@@ -33,7 +33,6 @@ class TheClass:
 
     def the_function(self, another_attr):
         """
-        
         Parameters
         ----------
         another_attr : type
