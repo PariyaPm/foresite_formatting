@@ -2,7 +2,7 @@
 In this repository the guidelines on file and coding formats are provided. The 
 guidelines are grouped in 5 classes of:
 
-* [Naming Convention](./naming_convention.md)
+* [Naming Conventions](./naming_convention.md)
 * [Geo Data Formatting](./geo_data_formatting.md)
 * [Python Coding Style](./python_coding_style.md)
 * [R Coding Style](./R_coding_style.md)
