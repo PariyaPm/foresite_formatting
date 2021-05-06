@@ -36,7 +36,7 @@ include the following metadata features:
 ## Formatting
 ____
 ### Spatial Reference:
-Spatial data should be in [California Teale Albers, NAD27 projection](https://spatialreference.org/ref/sr-org/11/)
+Spatial data should be in [California Albers, NAD83 projection](https://spatialreference.org/ref/epsg/3310/)
 
 ### Raster Data
 * Co-registered, geo-referenced raster
