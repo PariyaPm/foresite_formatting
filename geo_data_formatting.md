@@ -56,5 +56,5 @@ Spatial data should be in [California Albers, NAD83 projection](https://spatialr
 * The length of shapefile names should not exceed 10 characters
 
 ## Geographic Extent
-The extent of (raw) data should be larger than the study area, we recommentd a buffer of at least 10km for the (raw) data. This improves the accuracy of characteristics that rely on the neighboring areas such as distance and density. The map of the study area of foresite project can be found in [this](./AB2551) directory.
+The extent of (raw) data should be larger than the study area, we recommentd a buffer of at least 10km for the (raw) data. This improves the accuracy of characteristics that rely on the neighboring areas such as distance and density. A shapefile of the extent of this project is available [here](./Extent). The map of the study area of foresite project can be found in [this](./AB2551) directory.
 
