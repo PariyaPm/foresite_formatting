@@ -42,7 +42,7 @@ follows:
 
 **Examples:**
 ```
-desc_20210402_veg_smithJack_final_v01.0.tiff     /* extreme combination */
+desc_20210402_veg_smithJack_final_v01.0.tif     /* extreme combination */
 desc_20210412_draft.shp
 ```
 
